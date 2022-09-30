@@ -2,3 +2,7 @@
 *.net
 
 !fifth.py
+
+[aeiou]*.php
+
+
