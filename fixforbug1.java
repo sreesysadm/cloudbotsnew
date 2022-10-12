@@ -1,1 +1,1 @@
-written on master-branch this is the fix for bug1.0
+this is the correct  fix for bug1.0 suggested mgr
